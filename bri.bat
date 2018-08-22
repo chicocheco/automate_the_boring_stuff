@@ -1,0 +1,1 @@
+@py.exe C:\Python\blank_row_inserter.py %*

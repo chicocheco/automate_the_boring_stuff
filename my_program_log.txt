@@ -1,0 +1,111 @@
+2018-04-06 23:25:51,076 - DEBUG - Start of program
+2018-04-06 23:25:51,077 - DEBUG - Start of factorial(5)
+2018-04-06 23:25:51,077 - DEBUG - i is 1, total is 1
+2018-04-06 23:25:51,077 - DEBUG - i is 2, total is 2
+2018-04-06 23:25:51,077 - DEBUG - i is 3, total is 6
+2018-04-06 23:25:51,077 - DEBUG - i is 4, total is 24
+2018-04-06 23:25:51,077 - DEBUG - i is 5, total is 120
+2018-04-06 23:25:51,077 - DEBUG - End of factorial(5)
+2018-04-06 23:25:51,078 - DEBUG - End of program
+2018-04-10 00:08:16,522 - DEBUG - Start of program
+2018-04-10 00:08:19,945 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2018-04-10 00:08:21,788 - DEBUG - https://imgur.com:443 "GET /search/score/all?q=something HTTP/1.1" 200 161380
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/4A01LMUb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/nWlNtXdb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/pEYkp9Pb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/Oo2GpwBb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/B1Tq4QQb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/wBtPCiNb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/Q0jW8Ocb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/mJmE4hJb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/9V6fuxGb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/KxUPuR0b.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/h5cYElOb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/vpsv5w2b.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/8ZkdS9xb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/l0l6AGJb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/wNsQrFnb.jpg
+2018-04-10 00:08:22,632 - DEBUG - //i.imgur.com/waDgcncb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/S4D82dYb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/LfCOdYOb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/8tYWzXzb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/16szzeEb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/e0DzzTIb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/Gydon6zb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/cKPAj5Mb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/9JBaTG4b.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/rX2N8GSb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/gGjZdO8b.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/6atsSqbb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/8kF3z36b.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/NcCz6web.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/CYdeQUXb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/7UbK4OWb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/EjyIgqKb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/ROCf5aTb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/LmiNddVb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/7nHUUOZb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/XVZY5qHb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/kfsbmsAb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/s3aVDz5b.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/mVNICbqb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/ncEj1rEb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/NSA2Zjlb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/qHmlM8Db.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/d2DkMaZb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/f0w61J3b.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/pQ2VhDnb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/KBiEEMSb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/lu05kGIb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/Tgs8g2ob.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/fbINdkvb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/sW1zYOeb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/zgZ2fTvb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/rCGRXWfb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/yX2lLxAb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/5c22RvFb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/WV3aa3sb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/IuKevJub.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/Vc5ZiDJb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/CN2kDZab.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/ep9vOqGb.jpg
+2018-04-10 00:08:22,648 - DEBUG - //i.imgur.com/SWn14Sab.jpg
+2018-04-10 00:08:22,648 - DEBUG - //s.imgur.com/images/loaders/ddddd1_181817/48.gif
+2018-04-10 00:08:22,648 - DEBUG - http://b.scorecardresearch.com/p?c1=2&c2=7770950&cv=2.0&cj=1
+2018-04-10 00:08:22,648 - DEBUG - //pixel.quantserve.com/pixel/p-f8oruOqDFlMeI.gif
+2018-04-10 00:08:22,648 - DEBUG - https://www.facebook.com/tr?id=742377892535530&ev=PageView&noscript=1
+2018-04-10 00:08:22,648 - DEBUG - End of program
+2018-04-10 00:09:04,103 - DEBUG - Start of program
+2018-04-10 00:09:06,916 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2018-04-10 00:11:48,471 - DEBUG - Start of program
+2018-04-10 00:11:48,471 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2018-04-10 00:14:19,244 - DEBUG - Start of program
+2018-04-10 00:14:19,244 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2018-04-16 10:26:29,342 - DEBUG - bacon.txt found.
+2018-04-16 10:26:29,504 - DEBUG - error_info.txt found.
+2018-04-16 10:26:29,505 - DEBUG - madlibs.txt found.
+2018-04-16 10:26:29,506 - DEBUG - madlibs_new.txt found.
+2018-04-16 10:26:29,507 - DEBUG - my_program_log.txt found.
+2018-04-16 10:26:29,536 - DEBUG - romeo_and_juliet.txt found.
+2018-04-16 10:26:29,627 - DEBUG - text.txt found.
+2018-04-16 10:26:29,628 - DEBUG - text_to_spreadsheet1.txt found.
+2018-04-16 10:26:29,629 - DEBUG - text_to_spreadsheet2.txt found.
+2018-04-16 10:26:29,629 - DEBUG - text_to_spreadsheet3.txt found.
+2018-04-16 10:27:12,749 - DEBUG - Start of program
+2018-04-16 10:27:12,749 - DEBUG - Start of factorial(5)
+2018-04-16 10:27:12,749 - DEBUG - i is 1, total is 1
+2018-04-16 10:27:12,749 - DEBUG - i is 2, total is 2
+2018-04-16 10:27:12,749 - DEBUG - i is 3, total is 6
+2018-04-16 10:27:12,749 - DEBUG - i is 4, total is 24
+2018-04-16 10:27:12,749 - DEBUG - i is 5, total is 120
+2018-04-16 10:27:12,750 - DEBUG - End of factorial(5)
+2018-04-16 10:27:12,750 - DEBUG - End of program
+2018-04-16 10:27:31,467 - DEBUG - Start of program
+2018-04-16 10:27:31,469 - DEBUG - Start of factorial(5)
+2018-04-16 10:27:31,469 - DEBUG - i is 1, total is 1
+2018-04-16 10:27:31,469 - DEBUG - i is 2, total is 2
+2018-04-16 10:27:31,469 - DEBUG - i is 3, total is 6
+2018-04-16 10:27:31,470 - DEBUG - i is 4, total is 24
+2018-04-16 10:27:31,470 - DEBUG - i is 5, total is 120
+2018-04-16 10:27:31,470 - DEBUG - End of factorial(5)
+2018-04-16 10:27:31,470 - DEBUG - End of program

@@ -1,0 +1,1 @@
+@py.exe C:\Python\multiplication_table.pyw %*

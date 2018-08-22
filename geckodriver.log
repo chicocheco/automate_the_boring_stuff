@@ -1,0 +1,167 @@
+1523264056825	geckodriver	INFO	geckodriver 0.20.1
+1523264056839	geckodriver	INFO	Listening on 127.0.0.1:5237
+1523264059897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.7nks8nf4Iu2S"
+1523264115606	geckodriver	INFO	geckodriver 0.20.1
+1523264115619	geckodriver	INFO	Listening on 127.0.0.1:5280
+1523264118662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.gXVnM0WmhMWP"
+1523264119910	Marionette	INFO	Enabled via --marionette
+1523264122406	Marionette	INFO	Listening on port 5288
+1523264123040	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.cgwVA6tWNQd5"
+1523267653180	Marionette	INFO	Enabled via --marionette
+1523267656614	Marionette	INFO	Listening on port 5477
+1523267657070	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.QHfOwgdpj9M3"
+1523267754666	Marionette	INFO	Enabled via --marionette
+1523267758078	Marionette	INFO	Listening on port 5533
+1523267758750	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.irMlaXcQdEMa"
+1523268031168	Marionette	INFO	Enabled via --marionette
+1523268034346	Marionette	INFO	Listening on port 5617
+1523268034462	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1 line 40 > eval, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1, line 23: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1 line 40 > eval, line 23: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1 line 40 > eval, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1, line 23: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1 line 40 > eval, line 23: unreachable code after return statement
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1 line 40 > eval, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1, line 23: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61ea4y7yPdL._RC|11IYhapguOL.js,619nyK8BMiL.js,21dmoxZTACL.js,012FVc3131L.js,31fv8bqHLoL.js,31ReKJl2X6L.js,51fUvg-mdtL.js,11+vNCgC1cL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,21auxuI+dRL.js,01PoLXBDXWL.js,61fdakuKr7L.js,01mi-J86cyL.js,11dYToHZZ0L.js,01rpauTep4L.js,01ASpLj0Y8L.js_.js?AUIClients/AmazonUI#141082-T1 line 40 > eval, line 23: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523289615506	geckodriver	INFO	geckodriver 0.20.1
+1523289615522	geckodriver	INFO	Listening on 127.0.0.1:6816
+1523289618590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.yvuyZyOnupPL"
+1523289620156	Marionette	INFO	Enabled via --marionette
+1523289623134	Marionette	INFO	Listening on port 6824
+1523289623848	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+1523290387929	geckodriver	INFO	geckodriver 0.20.1
+1523290387945	geckodriver	INFO	Listening on 127.0.0.1:7148
+1523290390992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.3Lsfda0I0y1s"
+1523290392472	Marionette	INFO	Enabled via --marionette
+1523290394860	Marionette	INFO	Listening on port 7156
+1523290395254	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+1523290513146	geckodriver	INFO	geckodriver 0.20.1
+1523290513161	geckodriver	INFO	Listening on 127.0.0.1:7447
+1523290516208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.9ZKWr5mN8fMi"
+1523290517234	Marionette	INFO	Enabled via --marionette
+1523290519804	Marionette	INFO	Listening on port 7455
+1523290519914	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523290672390	geckodriver	INFO	geckodriver 0.20.1
+1523290672405	geckodriver	INFO	Listening on 127.0.0.1:7744
+1523290675468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.eNqKFwYDsEaX"
+1523290676708	Marionette	INFO	Enabled via --marionette
+1523290679140	Marionette	INFO	Listening on port 7752
+1523290679174	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+1523291297730	geckodriver	INFO	geckodriver 0.20.1
+1523291297730	geckodriver	INFO	Listening on 127.0.0.1:8091
+1523291300793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.2hAwxkoXC5Cu"
+1523291302500	Marionette	INFO	Enabled via --marionette
+1523291304958	Marionette	INFO	Listening on port 8099
+1523291305120	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523292511905	geckodriver	INFO	geckodriver 0.20.1
+1523292511921	geckodriver	INFO	Listening on 127.0.0.1:8413
+1523292515053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Standa\\AppData\\Local\\Temp\\rust_mozprofile.amplJKBZ3rcH"
+1523292516662	Marionette	INFO	Enabled via --marionette
+1523292521420	Marionette	INFO	Listening on port 8421
+1523292521506	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-5027625-1, line 69: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Standa\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
